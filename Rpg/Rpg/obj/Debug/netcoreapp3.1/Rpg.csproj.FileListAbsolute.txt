@@ -1,0 +1,39 @@
+C:\Users\nimpo\source\repos\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.exe
+C:\Users\nimpo\source\repos\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.deps.json
+C:\Users\nimpo\source\repos\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.runtimeconfig.json
+C:\Users\nimpo\source\repos\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.runtimeconfig.dev.json
+C:\Users\nimpo\source\repos\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.dll
+C:\Users\nimpo\source\repos\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.pdb
+C:\Users\nimpo\source\repos\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.csprojAssemblyReference.cache
+C:\Users\nimpo\source\repos\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.AssemblyInfoInputs.cache
+C:\Users\nimpo\source\repos\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.AssemblyInfo.cs
+C:\Users\nimpo\source\repos\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\nimpo\source\repos\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.dll
+C:\Users\nimpo\source\repos\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.pdb
+C:\Users\nimpo\source\repos\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.genruntimeconfig.cache
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\bin\Debug\netcoreapp3.1\Rpg.exe
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\bin\Debug\netcoreapp3.1\Rpg.deps.json
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\bin\Debug\netcoreapp3.1\Rpg.runtimeconfig.json
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\bin\Debug\netcoreapp3.1\Rpg.runtimeconfig.dev.json
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\bin\Debug\netcoreapp3.1\Rpg.dll
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\bin\Debug\netcoreapp3.1\Rpg.pdb
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\obj\Debug\netcoreapp3.1\Rpg.csprojAssemblyReference.cache
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\obj\Debug\netcoreapp3.1\Rpg.AssemblyInfoInputs.cache
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\obj\Debug\netcoreapp3.1\Rpg.AssemblyInfo.cs
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\obj\Debug\netcoreapp3.1\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\obj\Debug\netcoreapp3.1\Rpg.dll
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\obj\Debug\netcoreapp3.1\Rpg.pdb
+C:\Users\visha\OneDrive\Bureau\COURS B2\C SHARP COURS\RPG\Rpg\obj\Debug\netcoreapp3.1\Rpg.genruntimeconfig.cache
+C:\Users\33672\Desktop\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.csprojAssemblyReference.cache
+C:\Users\33672\Desktop\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.AssemblyInfoInputs.cache
+C:\Users\33672\Desktop\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.AssemblyInfo.cs
+C:\Users\33672\Desktop\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\33672\Desktop\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.dll
+C:\Users\33672\Desktop\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.pdb
+C:\Users\33672\Desktop\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.exe
+C:\Users\33672\Desktop\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.deps.json
+C:\Users\33672\Desktop\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.runtimeconfig.json
+C:\Users\33672\Desktop\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.runtimeconfig.dev.json
+C:\Users\33672\Desktop\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.dll
+C:\Users\33672\Desktop\Rpg\Rpg\bin\Debug\netcoreapp3.1\Rpg.pdb
+C:\Users\33672\Desktop\Rpg\Rpg\obj\Debug\netcoreapp3.1\Rpg.genruntimeconfig.cache
